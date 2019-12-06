@@ -4,13 +4,15 @@ namespace App\Entity
 /**
  * 
  */
-class Event extends AnotherClass
+class Event
 {
-	
-	function __construct(argument)
-	{
-		# code...
-	}
+	private $dateTime;
+	private $adress;
+	private $name;
+	private $price;
+	private $description;
+}
+
 }
 
  ?>
