@@ -4,13 +4,12 @@ namespace App\Entity
 /**
  * 
  */
-class Scene extends AnotherClass
+class Scene
 {
-	
-	function __construct(argument)
-	{
-		private $label
-	}
+	private $label;
+
+}
+
 }
 
  ?>
